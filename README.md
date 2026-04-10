@@ -70,8 +70,8 @@ All components are organized into separate folders within the main repository.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/BrijeshShinde7/Online_Vegetable_-_Fruits_Store.git
-cd Online_Vegetable_-_Fruits_Store
+git clone https://github.com/BrijeshShinde7/FarmersMarketPlace.git
+cd FarmersMarketPlace
 ```
 
 ---
