@@ -7,7 +7,7 @@ The **Farmers Market Place** is a comprehensive e-commerce platform designed to 
 
 ## 🔗 Repository
 The main repository for this project is located at:  
-👉 https://github.com/BrijeshShinde7/Online_Vegetable_-_Fruits_Store.git
+👉 https://github.com/BrijeshShinde7/FarmersMarketPlace.git
 
 ---
 
